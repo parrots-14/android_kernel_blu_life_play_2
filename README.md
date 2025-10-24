@@ -1,7 +1,7 @@
 # android_kernel_blu_life_play_2
 
 Kernel source for the Blu Life Play 2.
-Also might be the same as a Gionee phone (maybe, likely Gionee CTRL V5?)
+Should(?) work with any device with the WBW5511_MAINBOARD_P2 main board like the Gionee CTRL V5 or Pyongyang 2407.
 
 ### Details
 
